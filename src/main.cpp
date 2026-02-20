@@ -12,6 +12,9 @@
  */
 
 #include <DHT.h>
+#include<wire.h>
+#include <Adafruit_SSD1306.h>
+#include <Adafruit_GFX.h>
 
 // TODO 1:
 // Define the DHT data pin (Use digital pin 2)
