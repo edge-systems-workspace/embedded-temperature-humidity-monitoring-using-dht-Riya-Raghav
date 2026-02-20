@@ -19,6 +19,9 @@
 #define SCREEN_HEIGHT 64
 #define OLED_ADDR 0x3c
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT);
+#define DHTPIN 2
+#define DHTTYPE DHT11
+DHT dht(DHTPIN, DHTTYPE);
 
 // TODO 1:
 // Define the DHT data pin (Use digital pin 2)
