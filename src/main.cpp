@@ -2,8 +2,8 @@
 /**
  * @file main.ino
  * @brief Embedded Temperature and Humidity Monitoring using DHT11
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author RIYA RAGHAV
+ * @date 2026-02-20
  *
  * @details
  * This program reads environmental data from the DHT11 sensor
